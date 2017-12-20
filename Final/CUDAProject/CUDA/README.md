@@ -25,7 +25,7 @@ or
 
 ./sudokusolver16x16 16 16 16x16puzzle/puzzle16_01.txt puzzle16.txt
 
-Then run sbatch submit.sh
+Then run sbatch submit.sh, the output file is in current directory.
 
 ##Notices
 
