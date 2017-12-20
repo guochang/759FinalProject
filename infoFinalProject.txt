@@ -1,0 +1,7 @@
+Your First Name: Chang
+Your Last Name: Guo
+The Last four digits of your UW-Madison student ID: 3021
+URL to Final Project GitHub repo (used for grading): https://github.com/guochang/759FinalProject
+Participate in Rescale competition for Surface tablet: No
+Name[s] of your Final Project teammates: Yuncong Hao
+I took care of the course evaluation: Yes
