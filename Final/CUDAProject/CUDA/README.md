@@ -8,11 +8,11 @@ README.md and Report about the code and the GPU acceleration analysis.
 
 To compile 9x9 sudokusolver
 'make sudokusolver9x9'
-or compile with nvcc 'nvcc sudokusolver9x9.cu -o sudokusolver9x9 -lcublas'
+or compile with nvcc 'nvcc sudokusolver9x9.cu -o sudokusolver9x9 -lcublas -ccbin "/usr/local/gcc/6.4.0/bin/gcc"'
 
 To compile 16x16 sudokusolver
 'make sudokusolver16x16'
-or compile with nvcc 'nvcc sudokusolver16x16.cu -o sudokusolver16x16 -lcublas'
+or compile with nvcc 'nvcc sudokusolver16x16.cu -o sudokusolver16x16 -lcublas -ccbin "/usr/local/gcc/6.4.0/bin/gcc"'
 
 ##Running
 
